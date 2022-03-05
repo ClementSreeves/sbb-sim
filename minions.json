@@ -1,0 +1,250 @@
+{
+    "Baby Dragon": {
+        "name": "Baby Dragon",
+        "attack": 3,
+        "health": 2,
+        "alignment": "Neutral",
+        "types": [
+            "Dragon"
+        ],
+        "level": 2,
+        "flying": true
+    },
+    "Black Cat": {
+        "name": "Black Cat",
+        "attack": 1,
+        "health": 1,
+        "alignment": "Evil",
+        "types": [
+            "Animal"
+        ],
+        "level": 2
+    },
+    "Mad Mim": {
+        "name": "Mad Mim",
+        "attack": 0,
+        "health": 3,
+        "alignment": "Evil",
+        "types": [
+            "Mage"
+        ],
+        "level": 2,
+        "support": {
+            "stats": [
+                "attack"
+            ],
+            "value": 3,
+            "type": "All"
+        }
+    },
+    "Baby Root": {
+        "name": "Baby Root",
+        "attack": 0,
+        "health": 3,
+        "alignment": "Good",
+        "types": [
+            "Treant"
+        ],
+        "level": 2,
+        "support": {
+            "stats": [
+                "health"
+            ],
+            "value": 3,
+            "type": "All"
+        }
+    },
+    "B-a-a-d Billy Gruff": {
+        "name": "B-a-a-d Billy Gruff",
+        "attack": 2,
+        "health": 3,
+        "alignment": "Evil",
+        "types": [
+            "Animal"
+        ],
+        "level": 2
+    },
+    "Blind Mouse": {
+        "name": "Blind Mouse",
+        "attack": 2,
+        "health": 2,
+        "alignment": "Neutral",
+        "types": [
+            "Animal"
+        ],
+        "level": 2
+    },
+    "Cinderella": {
+        "name": "Cinderella",
+        "attack": 2,
+        "health": 2,
+        "alignment": "Neutral",
+        "types": [
+            "Princess",
+            "Mage"
+        ],
+        "level": 2
+    },
+    "Crafty": {
+        "name": "Crafty",
+        "attack": 2,
+        "health": 2,
+        "alignment": "Neutral",
+        "types": [
+            "Dwarf"
+        ],
+        "level": 2
+    },
+    "Fanny": {
+        "name": "Fanny",
+        "attack": 2,
+        "health": 2,
+        "alignment": "Neutral",
+        "types": [
+            "Dwarf"
+        ],
+        "level": 2,
+        "support": {
+            "stats": [
+                "attack",
+                "health"
+            ],
+            "value": 2,
+            "type": "Dwarf"
+        }
+    },
+    "Golden Chicken": {
+        "name": "Golden Chicken",
+        "attack": 2,
+        "health": 2,
+        "alignment": "Neutral",
+        "types": [
+            "Animal"
+        ],
+        "level": 2
+    },
+    "Happy Little Tree": {
+        "name": "Happy Little Tree",
+        "attack": 1,
+        "health": 1,
+        "alignment": "Good",
+        "types": [
+            "Treant"
+        ],
+        "level": 2
+    },
+    "Humpty Dumpty": {
+        "name": "Humpty Dumpty",
+        "attack": 7,
+        "health": 7,
+        "alignment": "Good",
+        "types": [
+            "Egg"
+        ],
+        "level": 2
+    },
+    "Kitty Cutpurse": {
+        "name": "Kitty Cutpurse",
+        "attack": 1,
+        "health": 1,
+        "alignment": "Evil",
+        "types": [
+            "Animal"
+        ],
+        "level": 2,
+        "slay": true
+    },
+    "Labyrinth Minotaur": {
+        "name": "Labyrinth Minotaur",
+        "attack": 5,
+        "health": 1,
+        "alignment": "Evil",
+        "types": [
+            "Minotaur"
+        ],
+        "level": 2
+    },
+    "Lonely Prince": {
+        "name": "Lonely Prince",
+        "attack": 1,
+        "health": 1,
+        "alignment": "Good",
+        "types": [
+            "Prince"
+        ],
+        "level": 2
+    },
+    "Polywoggle": {
+        "name": "Polywoggle",
+        "attack": 1,
+        "health": 1,
+        "alignment": "Neutral",
+        "types": [
+            "Animal"
+        ],
+        "level": 2,
+        "slay": true
+    },
+    "Rainbow Unicorn": {
+        "name": "Rainbow Unicorn",
+        "attack": 1,
+        "health": 5,
+        "alignment": "Good",
+        "types": [
+            "Animal"
+        ],
+        "level": 2
+    },
+    "Sherwood Sureshot": {
+        "name": "Sherwood Sureshot",
+        "attack": 2,
+        "health": 1,
+        "alignment": "Good",
+        "types": [
+            "Princess"
+        ],
+        "level": 2,
+        "ranged": true
+    },
+    "Tiny": {
+        "name": "Tiny",
+        "attack": 6,
+        "health": 1,
+        "alignment": "Neutral",
+        "types": [
+            "Dwarf"
+        ],
+        "level": 2
+    },
+    "Wizard's Familiar": {
+        "name": "Wizard's Familiar",
+        "attack": 1,
+        "health": 1,
+        "alignment": "Neutral",
+        "types": [
+            "Animal"
+        ],
+        "level": 2
+    },
+    "Frog Prince": {
+        "name": "Frog Prince",
+        "attack": 5,
+        "health": 5,
+        "alignment": "Good",
+        "types": [
+            "Animal",
+            "Prince"
+        ],
+        "level": 0
+    },
+    "Cat": {
+        "name": "Cat",
+        "attack": 1,
+        "health": 1,
+        "alignment": "Evil",
+        "types": [
+            "Animal"
+        ],
+        "level": 0
+    }
+}
