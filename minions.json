@@ -1,8 +1,8 @@
 {
     "Baby Dragon": {
         "name": "Baby Dragon",
-        "attack": 3,
-        "health": 2,
+        "base_attack": 3,
+        "base_health": 2,
         "alignment": "Neutral",
         "types": [
             "Dragon"
@@ -12,8 +12,8 @@
     },
     "Black Cat": {
         "name": "Black Cat",
-        "attack": 1,
-        "health": 1,
+        "base_attack": 1,
+        "base_health": 1,
         "alignment": "Evil",
         "types": [
             "Animal"
@@ -22,42 +22,28 @@
     },
     "Mad Mim": {
         "name": "Mad Mim",
-        "attack": 0,
-        "health": 3,
+        "base_attack": 0,
+        "base_health": 3,
         "alignment": "Evil",
         "types": [
             "Mage"
         ],
-        "level": 2,
-        "support": {
-            "stats": [
-                "attack"
-            ],
-            "value": 3,
-            "type": "All"
-        }
+        "level": 2
     },
     "Baby Root": {
         "name": "Baby Root",
-        "attack": 0,
-        "health": 3,
+        "base_attack": 0,
+        "base_health": 3,
         "alignment": "Good",
         "types": [
             "Treant"
         ],
-        "level": 2,
-        "support": {
-            "stats": [
-                "health"
-            ],
-            "value": 3,
-            "type": "All"
-        }
+        "level": 2
     },
     "B-a-a-d Billy Gruff": {
         "name": "B-a-a-d Billy Gruff",
-        "attack": 2,
-        "health": 3,
+        "base_attack": 2,
+        "base_health": 3,
         "alignment": "Evil",
         "types": [
             "Animal"
@@ -66,8 +52,8 @@
     },
     "Blind Mouse": {
         "name": "Blind Mouse",
-        "attack": 2,
-        "health": 2,
+        "base_attack": 2,
+        "base_health": 2,
         "alignment": "Neutral",
         "types": [
             "Animal"
@@ -76,8 +62,8 @@
     },
     "Cinderella": {
         "name": "Cinderella",
-        "attack": 2,
-        "health": 2,
+        "base_attack": 2,
+        "base_health": 2,
         "alignment": "Neutral",
         "types": [
             "Princess",
@@ -87,8 +73,8 @@
     },
     "Crafty": {
         "name": "Crafty",
-        "attack": 2,
-        "health": 2,
+        "base_attack": 2,
+        "base_health": 2,
         "alignment": "Neutral",
         "types": [
             "Dwarf"
@@ -97,26 +83,18 @@
     },
     "Fanny": {
         "name": "Fanny",
-        "attack": 2,
-        "health": 2,
+        "base_attack": 2,
+        "base_health": 2,
         "alignment": "Neutral",
         "types": [
             "Dwarf"
         ],
-        "level": 2,
-        "support": {
-            "stats": [
-                "attack",
-                "health"
-            ],
-            "value": 2,
-            "type": "Dwarf"
-        }
+        "level": 2
     },
     "Golden Chicken": {
         "name": "Golden Chicken",
-        "attack": 2,
-        "health": 2,
+        "base_attack": 2,
+        "base_health": 2,
         "alignment": "Neutral",
         "types": [
             "Animal"
@@ -125,8 +103,8 @@
     },
     "Happy Little Tree": {
         "name": "Happy Little Tree",
-        "attack": 1,
-        "health": 1,
+        "base_attack": 1,
+        "base_health": 1,
         "alignment": "Good",
         "types": [
             "Treant"
@@ -135,8 +113,8 @@
     },
     "Humpty Dumpty": {
         "name": "Humpty Dumpty",
-        "attack": 7,
-        "health": 7,
+        "base_attack": 7,
+        "base_health": 7,
         "alignment": "Good",
         "types": [
             "Egg"
@@ -145,8 +123,8 @@
     },
     "Kitty Cutpurse": {
         "name": "Kitty Cutpurse",
-        "attack": 1,
-        "health": 1,
+        "base_attack": 1,
+        "base_health": 1,
         "alignment": "Evil",
         "types": [
             "Animal"
@@ -156,8 +134,8 @@
     },
     "Labyrinth Minotaur": {
         "name": "Labyrinth Minotaur",
-        "attack": 5,
-        "health": 1,
+        "base_attack": 5,
+        "base_health": 1,
         "alignment": "Evil",
         "types": [
             "Minotaur"
@@ -166,8 +144,8 @@
     },
     "Lonely Prince": {
         "name": "Lonely Prince",
-        "attack": 1,
-        "health": 1,
+        "base_attack": 1,
+        "base_health": 1,
         "alignment": "Good",
         "types": [
             "Prince"
@@ -176,8 +154,8 @@
     },
     "Polywoggle": {
         "name": "Polywoggle",
-        "attack": 1,
-        "health": 1,
+        "base_attack": 1,
+        "base_health": 1,
         "alignment": "Neutral",
         "types": [
             "Animal"
@@ -187,8 +165,8 @@
     },
     "Rainbow Unicorn": {
         "name": "Rainbow Unicorn",
-        "attack": 1,
-        "health": 5,
+        "base_attack": 1,
+        "base_health": 5,
         "alignment": "Good",
         "types": [
             "Animal"
@@ -197,8 +175,8 @@
     },
     "Sherwood Sureshot": {
         "name": "Sherwood Sureshot",
-        "attack": 2,
-        "health": 1,
+        "base_attack": 2,
+        "base_health": 1,
         "alignment": "Good",
         "types": [
             "Princess"
@@ -208,8 +186,8 @@
     },
     "Tiny": {
         "name": "Tiny",
-        "attack": 6,
-        "health": 1,
+        "base_attack": 6,
+        "base_health": 1,
         "alignment": "Neutral",
         "types": [
             "Dwarf"
@@ -218,8 +196,8 @@
     },
     "Wizard's Familiar": {
         "name": "Wizard's Familiar",
-        "attack": 1,
-        "health": 1,
+        "base_attack": 1,
+        "base_health": 1,
         "alignment": "Neutral",
         "types": [
             "Animal"
@@ -228,8 +206,8 @@
     },
     "Frog Prince": {
         "name": "Frog Prince",
-        "attack": 5,
-        "health": 5,
+        "base_attack": 5,
+        "base_health": 5,
         "alignment": "Good",
         "types": [
             "Animal",
@@ -239,8 +217,8 @@
     },
     "Cat": {
         "name": "Cat",
-        "attack": 1,
-        "health": 1,
+        "base_attack": 1,
+        "base_health": 1,
         "alignment": "Evil",
         "types": [
             "Animal"
